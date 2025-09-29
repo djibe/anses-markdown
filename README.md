@@ -1,3 +1,3 @@
-# Anses Markdown
+# Guidelines in Markdown
 
-Adaptations des avis de l'Anses en markdown pour faciliter l'usage par les LLM.
+Adaptations des avis, recommandations et guides de sociétés savantes et agences de santé en markdown pour faciliter l'usage par les LLM.
